@@ -1,6 +1,6 @@
 # ADIF Data Process Software
 
-浙江大学《面向对象程序设计》课程实验 1（2023-2024 学年春夏学期，翁恺shou'ke
+浙江大学《面向对象程序设计》课程实验 1（2023-2024 学年春夏学期，翁恺授课）。
 
 ## Build instructions
 
