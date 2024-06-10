@@ -1,0 +1,28 @@
+# basic
+read ../examples/test0.adif
+display
+delete 0
+display
+search QSO_DATE 20070526
+update 0 QSO_DATE 20070527
+display
+search QSO_DATE 20070526
+# file
+read ../examples/test1.adif
+display
+export ../examples/test1.csv
+save ../examples/test1.save.adif
+merge ../examples/test2.adif
+display
+merge ../examples/test0.adif
+o0
+display
+save ../examples/merged.adif
+# chinese
+read ../examples/chinese.adif
+display
+save ../examples/chinese.save.adif
+# invalid input
+read ../examples/invalid.adif
+display
+exit

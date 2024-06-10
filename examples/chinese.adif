@@ -1,0 +1,8 @@
+我来测试一下中文字符能不能通过嗷<eoh>
+<QSO_DATE:8>20070526 <TIME_ON:6>010631 <FREQ:6>多了一些字！
+<BAND:9>刚刚好！ <STX:1>不全！ <MODE:2>哇奥
+    <CALL:8>呜呜呜呜
+<EOR>
+<QSO_DATE:8>20070527 <TIME_ON:6>010631 <FREQ:6>略略略？ <BAND:3>！ <STX:1>？ <MODE:2>哇奥
+    <CALL:8>呜呜呜呜
+<EOR>
